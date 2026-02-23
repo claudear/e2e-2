@@ -4,3 +4,4 @@
 <!-- CLA-68: Auto-generated lifecycle test comment added by E2E smoke test. Date: 2026-02-23 -->
 <!-- CLA-73: Auto-generated lifecycle test comment added by E2E smoke test. Date: 2026-02-23 -->
 <!-- CLA-75: Auto-generated lifecycle test comment added by E2E smoke test. Date: 2026-02-23 -->
+<!-- CLA-76: Auto-generated lifecycle test comment added by E2E smoke test. Date: 2026-02-23 -->
